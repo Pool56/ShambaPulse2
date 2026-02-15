@@ -46,11 +46,11 @@ Digitizing agricultural logistics
 By integrating quality intelligence, logistics optimization, and financial enablement, ShambaPulse transforms agriculture from subsistence-based activity into a data-driven, bankable, and scalable ecosystem.
 
 ### How our technology solution can help
-Quality Assurance-as-a-Service (QAaaS)
+1. Quality Assurance-as-a-Service (QAaaS)
 
 ShambaPulse enhances food safety and quality verification for agricultural produce supplied to hotels, institutions, and government agencies.
 
-🔬 How It Works
+ How It Works
 
 Agricultural produce is tested using food testing strips.
 
@@ -76,7 +76,7 @@ Sent via SMS to feature phones
 
 This ensures accessibility, simplicity, and transparency.
 
-🎯 Value Delivered
+ Value Delivered
 
 Assures hotels of food safety compliance
 
@@ -86,7 +86,7 @@ Reduces rejection rates of produce
 
 Enables traceability and documentation
 
-🤝 Strategic Partnerships (QAaaS)
+ Strategic Partnerships (QAaaS)
 
 Collaboration with 3M to enhance the food strip prototype using their manufacturing expertise.
 
@@ -100,7 +100,7 @@ Kenya Development Corporation
 
 Central Bank of Kenya
 
-2️⃣ Transport-as-a-Service (TaaS)
+2.  Transport-as-a-Service (TaaS)
 
 Transport inefficiencies significantly increase food waste and cost in Nakuru. ShambaPulse provides real-time traffic intelligence and optimized transport selection.
 
@@ -125,7 +125,7 @@ Petrol vehicles cost more than diesel.
 
 Fuel optimization reduces overall logistics cost.
 
-🤝 Strategic Partnerships (TaaS)
+ Strategic Partnerships (TaaS)
 
 Fuel discount collaboration with Rubis Energy Kenya.
 
@@ -133,11 +133,11 @@ Bulk SMS partnership with Safaricom.
 
 Licensing real-time traffic data to buyers and sellers.
 
-3️⃣ Investment-as-a-Service (IaaS)
+3.  Investment-as-a-Service (IaaS)
 
 ShambaPulse integrates quality verification and logistics performance data to create financial credibility profiles for farmers.
 
-💰 How It Works
+ How It Works
 
 Aggregates data from QAaaS and TaaS.
 
@@ -159,7 +159,7 @@ Grants
 
 Impact investments
 
-🤝 Financial Partnerships
+ Financial Partnerships
 
 Collaboration with Equity Bank
 
@@ -340,23 +340,15 @@ Farmers move from invisible cash operators → measurable financial entities.
 
 
 ## Judging criteria 
-Relevance of MeTTa<img width="861" height="193" alt="image" src="https://github.com/user-attachments/assets/5f896b19-86e3-4d74-b8c3-3705725ad447" />
-<img width="1016" height="686" alt="image" src="https://github.com/user-attachments/assets/a27f7ffc-be9a-493a-b66a-6174c9076b43" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ef798c15-fd1b-423b-beec-10290367bc00" />
 
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d9013cfa-3a28-45f1-a4dd-2990e8af2af2" />
 
-Technical implementation<img width="1031" height="193" alt="image" src="https://github.com/user-attachments/assets/06324848-7857-4dbc-93bf-7cd4febf8898" />
-<img width="1482" height="830" alt="image" src="https://github.com/user-attachments/assets/26cc6102-6ab5-45e3-a6df-3d774cd790ca" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6debcf0c-9928-4f6c-8e93-cf4e2b924a31" />
 
-Usability and user experience
-<img width="626" height="105" alt="image" src="https://github.com/user-attachments/assets/b6dfc591-d26e-4b52-9edc-7d2869df46d3" />
-<img width="1624" height="829" alt="image" src="https://github.com/user-attachments/assets/90569a20-1978-4031-b1df-cbd05b54960b" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/73d14aa0-7f3e-462c-bbf9-8c28a9b98d40" />
 
-
-Impact and scalability <img width="904" height="193" alt="image" src="https://github.com/user-attachments/assets/91ce75ac-edf2-4d0a-b981-1824384825db" />
-
-<img width="1676" height="607" alt="image" src="https://github.com/user-attachments/assets/0a71fa77-68cb-41b3-8294-c6b5673fcfd9" />
-
-
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/3d9f4a6c-544c-4a11-80ee-bab30529c547" />
 
 
 ## Featured software products
