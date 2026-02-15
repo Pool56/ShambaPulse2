@@ -104,7 +104,7 @@ Central Bank of Kenya
 
 Transport inefficiencies significantly increase food waste and cost in Nakuru. ShambaPulse provides real-time traffic intelligence and optimized transport selection.
 
-🚦 Real-Time Traffic Data Model
+ Real-Time Traffic Data Model
 
 Identify businesses and individuals along selected transport routes.
 
@@ -340,7 +340,8 @@ Farmers move from invisible cash operators → measurable financial entities.
 
 
 ## Judging criteria 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ef798c15-fd1b-423b-beec-10290367bc00" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/39cc8b37-f9e8-45b2-8c84-55f315c48640" />
+
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d9013cfa-3a28-45f1-a4dd-2990e8af2af2" />
 
