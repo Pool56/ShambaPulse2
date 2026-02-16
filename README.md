@@ -12,6 +12,8 @@
   - [Contributing](#contributing)
   - [Versioning](#versioning)
   - [Authors](#authors)
+  - [Demo videos](#demo-videos)
+  - [Demo links] (#demo-links)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
@@ -1041,6 +1043,7 @@ export default function HomePage() {
 
 
 
+
 ### Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -1054,7 +1057,17 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 <a 
 </a>
 
-- **John Maina** - _Initial work_ - 
+- **John Maina**
+- **Dominic**
+- **Lawrence**
+
+   ### Demo videos
+
+  
+  ### Demo links
+  https://medium-tech-20229072.figma.site/
+
+  https://apps.powerapps.com/play/e/a05e186e-bb6d-eae3-8be7-b1a6c8ad114e/a/418fd900-c68c-428c-b39e-a53b7f9e9f9b?tenantId=6e2cc058-79af-4df8-92e6-ee6e0d1dea3e&hint=e5063b3c-9f5a-47d3-b602-946d27b1d865&source=sharebutton&sourcetime=1771223055624
 
 ### License
 
