@@ -52,7 +52,7 @@ By integrating quality intelligence, logistics optimization, and financial enabl
 
 ShambaPulse enhances food safety and quality verification for agricultural produce supplied to hotels, institutions, and government agencies.
 
- How It Works
+ How it works
 
 Agricultural produce is tested using food testing strips.
 
@@ -94,6 +94,16 @@ Collaboration with 3M to enhance the food strip prototype using their manufactur
 
 Licensing food strip technology to Kenya Bureau of Standards (B2G model).
 
+## Technical description
+The Arduino-based food quality testing system follows a structured sequential process beginning with sample preparation, where a food sample such as milk, meat extract, or juice is diluted with distilled water to produce a liquid test extract. The extract is then applied to chemical test strips and sensors including glucose enzyme strip, pH probe, ammonia sensor, and conductivity electrodes, where chemical reactions occur—producing measurable changes such as electrical current, voltage variation, gas concentration, or color change. These changes are converted into analog electrical signals, which are transmitted through the breadboard, serving as the circuit integration and prototyping platform that electrically connects the sensors, resistors, Arduino, and communication module without permanent soldering. The breadboard distributes power reanging to 5V , organizes wiring, and enables rapid testing and modification of the system design.
+
+The signals are then sent to the Arduino for analog-to-digital conversion (ADC) and calibration using predefined mathematical formulas. The Arduino applies programmed decision logic to classify the food as SAFE, WARNING, or UNSAFE based on established threshold values. Finally, the processed results are transmitted wirelessly via the HC-05 Bluetooth module to a smartphone application, where the data is displayed, logged, and can be exported for reporting, traceability, and quality assurance purposes.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7553c223-5d32-4762-8a36-f61d74a99b57" />
+
+
+
+
+End user is Kenya Bureau of Standards or even hotels
 Partnership with:
 
 Kenya Association of Manufacturers
@@ -342,6 +352,8 @@ Farmers move from invisible cash operators → measurable financial entities.
 
 
 ## Judging criteria 
+
+
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/39cc8b37-f9e8-45b2-8c84-55f315c48640" />
 
 
@@ -353,6 +365,11 @@ Farmers move from invisible cash operators → measurable financial entities.
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/3d9f4a6c-544c-4a11-80ee-bab30529c547" />
 
+For Qulaity Assurance he novelty of this project lies in its integration of low-cost microcontroller technology (Arduino), disposable chemical test strips, and wireless Bluetooth communication into a single portable food quality testing platform. Unlike traditional systems such as laboratory-based food testing kits or single-parameter devices like glucometers, this solution combines multi-parameter detection (pH, glucose, ammonia, conductivity) with real-time digital analysis and mobile reporting.
+
+Additionally, the project introduces a hybrid detection approach—merging electrochemical sensing (like medical glucose meters) with colorimetric and gas-based food spoilage indicators—within a customizable and scalable architecture. By leveraging a reusable hardware core with locally producible consumable strips, it creates an affordable, field-deployable system suitable for SMEs, hotels, cooperatives, and emerging markets.
+
+In essence, the innovation is not just in testing food quality, but in transforming it into a smart, connected, and scalable Quality Assurance-as-a-Service (QAaaS) model.
 
 ## Featured software products
 
